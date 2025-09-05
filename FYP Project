@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Halo nama saya Josh Farris Hilton dari ABN 01!\n");
+    printf("Halo nama saya Josh Farris Hilton dari ABN 01!");
     return 0;
 }
