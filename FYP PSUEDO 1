@@ -1,0 +1,6 @@
+BEGIN
+    SET length = 5
+    SET width = 3
+    CALCULATE area = length * width
+    DISPLAY "Area of Rectangle = ", area
+END
